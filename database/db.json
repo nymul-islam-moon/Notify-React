@@ -1,0 +1,90 @@
+{
+  "notifications":
+  [
+    {
+      "id": 1,
+      "title": "Class Cancellation",
+      "short_desc": "10 AM Chemistry class canceled.",
+      "desc": "The 10 AM Chemistry class has been canceled for today.",
+      "tags": ["class", "cancellation", "chemistry"]
+    },
+    {
+      "id": 2,
+      "title": "New Assignment",
+      "short_desc": "New Math 101 assignment posted.",
+      "desc": "A new assignment has been posted for the Math 101 course.",
+      "tags": ["assignment", "math", "course"]
+    },
+    {
+      "id": 3,
+      "title": "Event Reminder",
+      "short_desc": "Guest lecture tomorrow.",
+      "desc": "Don't forget about the guest lecture tomorrow at the auditorium.",
+      "tags": ["event", "reminder", "lecture"]
+    },
+    {
+      "id": 4,
+      "title": "Library Due Date",
+      "short_desc": "Return books by Monday.",
+      "desc": "The due date for returning borrowed books is next Monday.",
+      "tags": ["library", "due date", "books"]
+    },
+    {
+      "id": 5,
+      "title": "Exam Schedule",
+      "short_desc": "Final exam schedule posted.",
+      "desc": "The final exam schedule has been posted on the university website.",
+      "tags": ["exam", "schedule", "finals"]
+    },
+    {
+      "id": 6,
+      "title": "Campus Safety Alert",
+      "short_desc": "Safety alert issued.",
+      "desc": "Please be aware of the safety alert issued by the campus security.",
+      "tags": ["safety", "alert", "security"]
+    },
+    {
+      "id": 7,
+      "title": "Holiday Announcement",
+      "short_desc": "University closed next Friday.",
+      "desc": "The university will be closed next Friday for the holiday.",
+      "tags": ["holiday", "closure", "announcement"]
+    },
+    {
+      "id": 8,
+      "title": "Registration Open",
+      "short_desc": "Spring semester registration open.",
+      "desc": "Registration for the spring semester is now open.",
+      "tags": ["registration", "spring semester", "course"]
+    },
+    {
+      "id": 9,
+      "title": "Workshop Invitation",
+      "short_desc": "Career workshop next week.",
+      "desc": "You are invited to attend the career development workshop next week.",
+      "tags": ["workshop", "invitation", "career"]
+    },
+    {
+      "id": 10,
+      "title": "Financial Aid Deadline",
+      "short_desc": "Financial aid application deadline approaching.",
+      "desc": "The deadline to apply for financial aid is approaching.",
+      "tags": ["financial aid", "deadline", "application"]
+    },
+    {
+      "id": 11,
+      "title": "new created",
+      "short_desc": "Financial aid application deadline approaching.",
+      "desc": "The deadline to apply for financial aid is approaching.",
+      "tags": ["financial aid", "deadline", "application"]
+    }
+  ],
+  "show_notification":
+  {
+    "id": 1,
+    "title": "Class Cancellation",
+    "short_desc": "10 AM Chemistry class canceled.",
+    "desc": "The 10 AM Chemistry class has been canceled for today.",
+    "tags": ["class", "cancellation", "chemistry"]
+  }
+}

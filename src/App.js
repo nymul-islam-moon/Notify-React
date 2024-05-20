@@ -19,7 +19,7 @@ const App = () => {
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/profile" element={<Profile />} />
-                    <Route path="/show-notification" element={<ReadNotification />} />
+                    <Route path="/show-notification/:id" element={<ReadNotification />} />
                     <Route path="*" element={<NoPage />} />
                 </Routes>
             </BrowserRouter>

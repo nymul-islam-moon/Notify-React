@@ -4,7 +4,6 @@ const Search = ( props ) => {
 
     const [searchText, setSearchText]   = useState("");
 
-
     const handleChangeName = (e) => {
         setSearchText(e.target.value);
     }
