@@ -42,6 +42,10 @@ body {
     background-image: radial-gradient(#E3E3D2,#B0B096);
 
 }
+
+.post-card:hover .notification-icon {
+    display: block;
+}
 .post-card img {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -58,4 +62,55 @@ body {
 
 .post-show {
     background-image: radial-gradient(#E3E3D2,#B0B096);
+}
+
+/* error page section */
+.errorpage {
+    text-align: center;
+}
+
+.error_page_p {
+    color: #666;
+}
+.error_page_h {
+     font-size: 50px;
+     color: #333;
+}
+
+.error_page_a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.error_page_a:hover {
+    background-color: #0056b3;
+}
+
+.tag-badge{
+    margin-right: 10px;
+}
+
+.no-data-found {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 95%;
+    position: absolute;
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.notification-icon {
+    display: none;
+    top: 2px;
+    right: 20px;
+    font-size: 2rem;
 }
