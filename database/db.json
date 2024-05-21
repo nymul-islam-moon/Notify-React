@@ -76,7 +76,7 @@
       "title": "new created",
       "short_desc": "Financial aid application deadline approaching.",
       "desc": "The deadline to apply for financial aid is approaching.",
-      "tags": ["financial aid", "deadline", "application"]
+      "tags": ["financial aid", "deadline", "application","CSE-47"]
     }
   ],
   "show_notification":
@@ -85,6 +85,6 @@
     "title": "Class Cancellation",
     "short_desc": "10 AM Chemistry class canceled.",
     "desc": "The 10 AM Chemistry class has been canceled for today.",
-    "tags": ["class", "cancellation", "chemistry"]
+    "tags": ["class", "cancellation", "chemistry","CSE-47"]
   }
 }
